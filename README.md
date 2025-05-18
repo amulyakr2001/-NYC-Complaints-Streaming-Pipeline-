@@ -4,13 +4,13 @@ This project builds a scalable, cloud-native pipeline to analyze NYC 311 noise c
 
 ---
 
-## 📊 Project Objective
+## Project Objective
 
 To identify and understand the trends in noise complaints reported to NYC’s 311 service. The analysis aims to uncover geographic hotspots, frequent noise types, and complaint resolution trends to support better urban planning and enforcement.
 
 ---
 
-## 🔁 Data Pipeline Overview
+## Data Pipeline Overview
 
 ### 1. **Data Ingestion**
 - **Cloud Functions**: Retrieves raw complaint data from the NYC Open Data API.
@@ -31,7 +31,7 @@ To identify and understand the trends in noise complaints reported to NYC’s 31
 
 ---
 
-## 🛠️ Setup Instructions
+##  Setup Instructions
 
 ### Step 1: Google Cloud Setup
 - Create a GCP project and enable billing.
@@ -64,7 +64,7 @@ This project aims to:
 
 ---
 
-## 📂 Dataset Overview
+##  Dataset Overview
 
 Data is sourced from NYC Open Data:  
 🔗 [311 Service Requests from 2010 to Present](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/data_preview)
@@ -80,7 +80,7 @@ Data is sourced from NYC Open Data:
 
 ---
 
-## 🔍 Insights Derived
+##  Insights Derived
 - **Residential noise** leads as the top complaint type.
 - **Brooklyn** consistently registers the highest number of noise complaints.
 - **Loud music/parties** are the most frequently reported disturbances.
@@ -88,7 +88,7 @@ Data is sourced from NYC Open Data:
 
 ---
 
-## 🧱 GCP Services Breakdown
+##  GCP Services Breakdown
 
 | Component         | Role                                                                 |
 |------------------|----------------------------------------------------------------------|
